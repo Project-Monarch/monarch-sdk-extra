@@ -1,6 +1,5 @@
-import DEFAULT_TOKEN_LIST from '@venomswap/default-token-list'
-import COMMUNITY_TOKEN_LIST from '@venomswap/community-token-list'
-import { ChainId, Token } from '@venomswap/sdk'
+import DEFAULT_TOKEN_LIST from '@lootswap/default-token-list'
+import { ChainId, Token } from '@lootswap/sdk'
 
 export interface TokenListToken {
   chainId: number
@@ -16,7 +15,7 @@ export class Tokens {
   rawTokens: TokenListToken[]
   tokens?: Token[]
   
-  constructor(chainId?: ChainId, tokens = [...DEFAULT_TOKEN_LIST.tokens, ...COMMUNITY_TOKEN_LIST.tokens]) {
+  constructor(chainId?: ChainId, tokens = [...DEFAULT_TOKEN_LIST.tokens]) {
     this.chainId = chainId
     this.rawTokens = tokens
     this.setTokens()
