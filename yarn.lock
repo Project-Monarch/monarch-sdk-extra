@@ -1967,12 +1967,12 @@
     truffle-hdwallet-provider "^1.0.17"
     tslib "^2.2.0"
 
-"@lootswap/default-token-list@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@lootswap/default-token-list/-/default-token-list-2.0.0.tgz#8f530aef1ab1c2da13ef62968dbdbb57d7c7a19a"
-  integrity sha512-ZW11dzZwJCHPALpD/twjvc31+TXE6uCchQSCRtAuaPFeZ6YpfvKYS3a+RI+cWZVnM1Gv2FD8TC+DzTEYcTQh+w==
+"@lootswap/default-token-list@^2.2.0":
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@lootswap/default-token-list/-/default-token-list-2.2.0.tgz#10fb3ac4ffbb5e754f54c64eb010490198c8e786"
+  integrity sha512-9A/ErgoXpjZAQ++9o3S5DL1c24Z/l3P3aH7pCrkOFp/xf0i0RqxzMom9uVaoYkopBeOa61ixUgsZNPE/nj4UpQ==
 
-"@lootswap/sdk@2.0.1":
+"@lootswap/sdk@^2.0.1":
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/@lootswap/sdk/-/sdk-2.0.1.tgz#b2f0c814646566cde48b7c15df55d77a735f2149"
   integrity sha512-sYa+Tj3MgLdItTJfCEmTaxrJ203MBG9H6QZzZZ0SR7xRHMJehYNL7crR7EQ3rxG3tavdGhgM7c1cevGC4ftplA==
@@ -2909,9 +2909,9 @@
   integrity sha512-1z8k4wzFnNjVK/tlxvrWuK5WMt6mydWWP7+zvH5eFep4oj+UkrfiJTRtjCeBXNpwaA/FYqqtb4/QS4ianFpIRA==
 
 "@types/node@*", "@types/node@>=13.7.0":
-  version "15.12.1"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-15.12.1.tgz#9b60797dee1895383a725f828a869c86c6caa5c2"
-  integrity sha512-zyxJM8I1c9q5sRMtVF+zdd13Jt6RU4r4qfhTd7lQubyThvLfx6yYekWSQjGCGV2Tkecgxnlpl/DNlb6Hg+dmEw==
+  version "15.12.2"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-15.12.2.tgz#1f2b42c4be7156ff4a6f914b2fb03d05fa84e38d"
+  integrity sha512-zjQ69G564OCIWIOHSXyQEEDpdpGl+G348RAKY0XXy9Z5kU9Vzv1GMNnkar/ZJ8dzXB3COzD9Mo9NtRZ4xfgUww==
 
 "@types/node@10.12.18":
   version "10.12.18"
@@ -2929,9 +2929,9 @@
   integrity sha512-F0KIgDJfy2nA3zMLmWGKxcH2ZVEtCZXHHdOQs2gSaQ27+lNeEfGxzkIw90aXswATX7AZ33tahPbzy6KAfUreVw==
 
 "@types/node@^12.12.6":
-  version "12.20.14"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.20.14.tgz#9caf7eea0df08b406829889cc015256a6d81ab10"
-  integrity sha512-iFJOS5Q470FF+r4Ol2pSley7/wCNVqf+jgjhtxLLaJcDs+To2iCxlXIkJXrGLD9w9G/oJ9ibySu7z92DCwr7Pg==
+  version "12.20.15"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.20.15.tgz#10ee6a6a3f971966fddfa3f6e89ef7a73ec622df"
+  integrity sha512-F6S4Chv4JicJmyrwlDkxUdGNSplsQdGwp1A0AJloEVDirWdZOAiRHhovDlsFkKUrquUXhz1imJhXHsf59auyAg==
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
