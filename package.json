@@ -1,14 +1,14 @@
 {
-  "name": "@lootswap/sdk-extra",
+  "name": "@monarch/sdk-extra",
   "license": "MIT",
   "version": "2.1.0",
-  "description": "🛠 A specific SDK/toolkit for building applications on top of LootSwap.",
+  "description": "A specific SDK/toolkit for building applications on top of Project Monarch.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/LootSwap/lootswap-sdk-extra.git",
+  "repository": "https://github.com/Project-Monarch/monarch-sdk-extra.git",
   "keywords": [
     "ethereum",
     "harmony",
@@ -28,8 +28,8 @@
     "@ethersproject/providers": "^5.1.2",
     "@ethersproject/solidity": "^5.1.0",
     "@types/lodash.random": "^3.2.6",
-    "@lootswap/default-token-list": "^2.2.0",
-    "@lootswap/sdk": "^2.0.1",
+    "@monarch/default-token-list": "^2.2.0",
+    "@monarch/sdk": "^2.0.1",
     "lodash.random": "^3.2.0"
   },
   "devDependencies": {
