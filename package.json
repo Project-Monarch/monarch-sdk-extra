@@ -12,7 +12,7 @@
   "keywords": [
     "ethereum",
     "harmony",
-    "lootswap"
+    "project-monarch"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
