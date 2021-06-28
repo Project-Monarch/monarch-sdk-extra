@@ -1,5 +1,5 @@
-import DEFAULT_TOKEN_LIST from '@lootswap/default-token-list'
-import { ChainId, Token } from '@lootswap/sdk'
+import DEFAULT_TOKEN_LIST from '@project-monarch/default-token-list'
+import { ChainId, Token } from '@project-monarch/sdk'
 
 export interface TokenListToken {
   chainId: number

@@ -1,4 +1,4 @@
-import { ChainId, Currency, ETHER, HARMONY, BINANCE_COIN } from '@lootswap/sdk'
+import { ChainId, Currency, ETHER, HARMONY, BINANCE_COIN } from '@project-monarch/sdk'
 import random from 'lodash.random'
 
 /**

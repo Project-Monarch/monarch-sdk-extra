@@ -1,4 +1,4 @@
-import { ChainId, Token } from '@lootswap/sdk'
+import { ChainId, Token } from '@project-monarch/sdk'
 import { Tokens, TOKENS } from '../src/'
 
 describe('Tokens', () => {

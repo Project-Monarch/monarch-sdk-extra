@@ -1,5 +1,5 @@
 {
-  "name": "@monarch/sdk-extra",
+  "name": "@project-monarch/sdk-extra",
   "license": "MIT",
   "version": "2.1.0",
   "description": "A specific SDK/toolkit for building applications on top of Project Monarch.",
@@ -8,11 +8,11 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Project-Monarch/monarch-sdk-extra.git",
+  "repository": "https://github.com/Project-Monarch/project-monarch-sdk-extra.git",
   "keywords": [
     "ethereum",
     "harmony",
-    "project-monarch"
+    "project-project-monarch"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
@@ -27,9 +27,9 @@
     "@ethersproject/contracts": "^5.1.1",
     "@ethersproject/providers": "^5.1.2",
     "@ethersproject/solidity": "^5.1.0",
+    "@project-monarch/default-token-list": "^2.2.0",
+    "@project-monarch/sdk": "^2.0.1",
     "@types/lodash.random": "^3.2.6",
-    "@monarch/default-token-list": "^2.2.0",
-    "@monarch/sdk": "^2.0.1",
     "lodash.random": "^3.2.0"
   },
   "devDependencies": {
@@ -37,7 +37,7 @@
     "tsdx": "^0.12.3"
   },
   "engines": {
-    "node": ">=10"
+    "node": "^16.0.0"
   },
   "prettier": {
     "printWidth": 120,

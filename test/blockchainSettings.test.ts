@@ -1,4 +1,4 @@
-import { ChainId, Currency, HARMONY } from '@lootswap/sdk'
+import { ChainId, Currency, HARMONY } from '@project-monarch/sdk'
 import { Blockchain, BLOCKCHAIN_SETTINGS } from '../src'
 
 describe('BlockchainSettings', () => {
